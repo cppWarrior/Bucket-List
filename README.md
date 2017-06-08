@@ -1,5 +1,7 @@
 # whatToDo
-cppWarriors' Bucket List
+cppWarriors' Bucket List입니다. 같이 하고싶은 공부 또는 프로젝트들을 자유롭게 써주시면 됩니다.
+
+현재 진행중인 목록은 **강조**해주시고, 완료되거나 취소된 것은 ~취소선~을 그어주세요.
 
 ## Books
 - [The C++ Programming Language](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960778092&orderClick=LAG&Kc=)
@@ -9,12 +11,7 @@ cppWarriors' Bucket List
 - Programming Contests
 
 ## Applications
-- Make games
-- Make simple Windows app
-
-## Education
-집단지성으로 다같이 똑똑해지길 원합니다.
-
-## TODO
-- [x] 슬랙 연동 
-- [ ] 인원 더 모집하기
+- Games
+- Simple Windows app
+- Machine Learning
+- Compiler
