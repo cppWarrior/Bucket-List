@@ -14,3 +14,7 @@ cppWarriors' Bucket List
 
 ## Education
 집단지성으로 다같이 똑똑해지길 원합니다.
+
+## TODO
+- [x] 슬랙 연동 
+- [ ] 인원 더 모집하기
