@@ -10,7 +10,7 @@ cppWarriors' Bucket List
 
 ## Applications
 - Make games
-- Make simple windows app
+- Make simple Windows app
 
 ## Education
 집단지성으로 다같이 똑똑해지길 원합니다.
