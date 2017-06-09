@@ -8,6 +8,7 @@ cppWarrior의 Bucket List입니다. 같이 하고싶은 공부 또는 프로젝�
 
 ## Algorithm
 - [Baekjoon Online Judge](https://www.acmicpc.net/)
+- [7~8월 백준 오프라인 강의](https://www.acmicpc.net/lecture/57) 리뷰
 - Programming Contests
 
 ## Applications
