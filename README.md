@@ -4,10 +4,11 @@ cppWarrior의 Bucket List입니다. 같이 하고싶은 공부 또는 프로젝�
 현재 진행중인 목록은 **강조**해주시고, 완료되거나 취소된 것은 ~취소선~을 그어주세요.
 
 ## Books
-- [The C++ Programming Language](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960778092&orderClick=LAG&Kc=)
+- **[Programming: Principles and Practice Using C++](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960777866&orderClick=LAG&Kc=)**
+- ~[The C++ Programming Language](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960778092&orderClick=LAG&Kc=)~
 
 ## Algorithm
-- [Baekjoon Online Judge](https://www.acmicpc.net/)
+- **[Baekjoon Online Judge](https://www.acmicpc.net/)**
 - [7~8월 백준 오프라인 강의](https://www.acmicpc.net/lecture/57) 리뷰
 - Programming Contests
 
